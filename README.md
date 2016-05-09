@@ -1,7 +1,8 @@
 # EDA-Course-Project-1
-#No commit beyond the original fork, all done in one pass
+##No commit beyond the original fork, all done in one pass
 Instructions
 
+##This are codes that will provide some exploratory grath for the Electric power consumption  data set from 2007-02-01 and 2007-02-02. 
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 
 Dataset: Electric power consumption [20Mb]
